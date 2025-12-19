@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=nexlein&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Epitech%20Student%20&%20Freelance%20Developer&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=nexlein&fontSize=80&animation=fadeIn&fontAlignY=35&descAlignY=60&descAlign=50" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=30A7F7&center=true&vCenter=true&width=435&lines=Freelance+Fullstack+Developer;Open+to+new+missions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=30A7F7&center=true&vCenter=true&width=435&lines=Student+Developer;Open+to+Freelance+Work!;Epitech+Student" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Status](https://img.shields.io/badge/Statut-Disponible_pour_Missions-success?style=for-the-badge&logo=freelancer&logoColor=white)](mailto:nielsen.combe-bracciale@epitech.eu)
+[![Status](https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge&logo=freelancer&logoColor=white)](mailto:nielsen.combe-bracciale@epitech.eu)
 [![Visiteurs](https://img.shields.io/endpoint?url=https://hits.dwyl.com/nexlein32/nexlein32.json%3Fcolor%3Dblue&style=for-the-badge)]()
 
 <p align="center">
@@ -28,8 +28,8 @@
 </div>
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently an **Epitech Montpellier student**.
-- 💼 I’m looking for **paid freelance missions** compatible with my studies.
+- 🔭 I’m a student at **Epitech Montpellier**.
+- 💼 I’m open to **freelance projects** compatible with my studies.
 - 🌱 I’m currently exploring **Artificial Intelligence**.
 - 🛠️ My tools of choice include **.NET, Docker, Ollama, and n8n**.
 - ⚡ Fun fact: I love **video games** and building **microelectronics** projects.
@@ -57,14 +57,14 @@
 ## 📊 GitHub Analytics
 
 <table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexlein32&theme=tokyonight&hide_border=true&layout=compact" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=nexlein32&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</td>
-</tr>
+    <tr>
+        <td align="center" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexlein32&theme=tokyonight&hide_border=true&layout=compact" />
+        </td>
+        <td align="center" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api?username=nexlein32&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+        </td>
+    </tr>
 </table>
 
 ## 🏆 Achievements

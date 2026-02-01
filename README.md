@@ -1,11 +1,13 @@
 <div align="center">
 
-<h1>.------..------..------..------..------..------..------.</h1>
-<h1>|N.--. ||E.--. ||X.--. ||L.--. ||E.--. ||I.--. ||N.--. |</h1>
-<h1>| :(): || (\/) || :/\: || :/\: || (\/) || (\/) || :(): |</h1>
-<h1>| ()() || :\/: || (__) || (__) || :\/: || :\/: || ()() |</h1>
-<h1>| '--'N|| '--'E|| '--'X|| '--'L|| '--'E|| '--'I|| '--'N|</h1>
-<h1>`------'`------'`------'`------'`------'`------'`------'</h1>
+```text
+  _   _   ______  __   __  _       ______   _____   _   _ 
+ | \ | | |  ____| \ \ / / | |     |  ____| |_   _| | \ | |
+ |  \| | | |__     \ V /  | |     | |__      | |   |  \| |
+ | . ` | |  __|     > <   | |     |  __|     | |   | . ` |
+ | |\  | | |____   / . \  | |____ | |____   _| |_  | |\  |
+ |_| \_| |______| /_/ \_\ |______||______| |_____| |_| \_|
+```
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=30A7F7&center=true&vCenter=true&width=435&lines=Student+Developer;Open+to+Freelance+Work!;Epitech+Student" alt="Typing SVG" />
@@ -14,7 +16,7 @@
 <br/>
 
 [![Status](https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge&logo=freelancer&logoColor=white)](mailto:nielsen.combe-bracciale@epitech.eu)
-[![Visiteurs](https://img.shields.io/endpoint?url=https://hits.dwyl.com/nexlein32/nexlein32.json%3Fcolor%3Dblue&style=for-the-badge)]()
+[![Visiteurs](https://img.shields.io/endpoint?url=https://hits.dwyl.com/Nexlein/Nexlein.json%3Fcolor%3Dblue&style=for-the-badge)]()
 
 <p align="center">
   <a href="https://discord.gg/nexlein">
@@ -37,7 +39,7 @@
 - I’m open to **freelance projects** compatible with my studies.
 - I’m currently exploring **Artificial Intelligence**.
 - My tools of choice include **.NET, Docker, Ollama, and n8n**.
-- Fun fact: I love **video games** and building **microelectronics** projects.
+- I love building **microelectronics** projects.
 
 <div align="center">
 
@@ -73,5 +75,14 @@
 </table>
 
 [![PayPal](https://img.shields.io/badge/PayPal-Support_Me-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nexlein)
+
+```text
+.------.
+|N.--. |
+| :/\: |
+| (__) |
+| '--'N|
+`------'
+```
 
 </div>

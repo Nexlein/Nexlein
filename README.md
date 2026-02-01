@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=nexlein&fontSize=80&animation=fadeIn&fontAlignY=35&descAlignY=60&descAlign=50" />
+<h1>
+.------..------..------..------..------..------..------.
+|N.--. ||E.--. ||X.--. ||L.--. ||E.--. ||I.--. ||N.--. |
+| :(): || (\/) || :/\: || :/\: || (\/) || (\/) || :(): |
+| ()() || :\/: || (__) || (__) || :\/: || :\/: || ()() |
+| '--'N|| '--'E|| '--'X|| '--'L|| '--'E|| '--'I|| '--'N|
+`------'`------'`------'`------'`------'`------'`------'
+</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=30A7F7&center=true&vCenter=true&width=435&lines=Student+Developer;Open+to+Freelance+Work!;Epitech+Student" alt="Typing SVG" />

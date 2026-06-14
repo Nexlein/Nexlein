@@ -22,7 +22,9 @@
   <a href="https://nexlein.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
   </a>
+</p>
 
+<p align="center">
   <a href="https://linkedin.com/in/nielsen-combebracciale">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

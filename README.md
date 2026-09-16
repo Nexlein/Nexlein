@@ -1,17 +1,8 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-```text
-  _   _   ______  __   __  _       ______   _____   _   _ 
- | \ | | |  ____| \ \ / / | |     |  ____| |_   _| | \ | |
- |  \| | | |__     \ V /  | |     | |__      | |   |  \| |
- | . ` | |  __|     > <   | |     |  __|     | |   | . ` |
- | |\  | | |____   / . \  | |____ | |____   _| |_  | |\  |
- |_| \_| |______| /_/ \_\ |______||______| |_____| |_| \_|
-```
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=30A7F7&center=true&vCenter=true&width=435&lines=AI+%26+Software+Engineer;Epitech+Student" alt="Typing SVG" />
+<a href="https://github.com/Nexlein">
+  <img src="https://raw.githubusercontent.com/Nexlein/Nexlein/main/terminal-profile.svg" alt="Nexlein Terminal Profile" width="800">
 </a>
 
 <br/>

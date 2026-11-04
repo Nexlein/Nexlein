@@ -11,6 +11,8 @@ const H = CELL * 12;
 const cols = W / CELL;
 const rows = H / CELL;
 const GAMMA = 0.95;
+// Value above which an arrow takes the accent colour. The site uses 0.55 on about 48 columns: this keeps its proportion on 28
+const HOT = 0.7;
 const DIRS = [
     [1, 0],
     [-1, 0],
@@ -172,7 +174,7 @@ function field(wall, samples, theme) {
             rotation.push([1, rotation[0][1] + Math.round((turn - rotation[0][1]) / 360) * 360]);
             const alpha = samples.map((s) => [s.t, (0.25 + 0.75 * Math.sqrt(s.V[i])) * dim]);
             alpha.push([1, alpha[0][1]]);
-            const hot = samples.map((s) => s.V[i] > 0.55);
+            const hot = samples.map((s) => s.V[i] > HOT);
             const id = `a${i}`;
             const spin = simplify(rotation, 5);
             const glow = simplify(alpha, 0.07);

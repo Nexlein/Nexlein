@@ -223,7 +223,9 @@ function goalDot(samples) {
     const at = (s) => {
         const x = s.goal.x * CELL + CELL / 2;
         const y = s.goal.y * CELL + CELL / 2;
-        return `translate:${x}px ${y}px;opacity:${r2(fade(x, y))}`;
+        // Dimmed only while it crosses the text block
+        const overText = Math.abs(x - W / 2) < 420 && Math.abs(y - H / 2) < 175;
+        return `translate:${x}px ${y}px;opacity:${overText ? 0.25 : 1}`;
     };
     return `@keyframes g{${stops.map((s) => `${pct(s.t)}{${at(s)}}`).join('')}100%{${at(samples[samples.length - 1])}}}`;
 }
